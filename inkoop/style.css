@@ -310,7 +310,7 @@ button {
   .food_card {
     display: block;
     border-radius: 25px;
-    margin: 0;
+    margin: 34px;
     width: 200px;
     height: 200px;
     width: 50%;
